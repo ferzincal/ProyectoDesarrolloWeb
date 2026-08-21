@@ -62,13 +62,3 @@ npm run dev
 **5. Visualizar la página web**
 ¡Todo listo! La terminal te indicará que el servidor está corriendo. Abre tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) y visita la siguiente dirección:
  **[http://localhost:3000](http://localhost:3000)**
-abc def ghi jkl mno pqr stu
-abc def ghi jkl mno pqr stu
-
-abc def ghi jkl mno pqr stu
-
-abc def ghi jkl mno pqr stu
-
-abc def ghi jkl mno pqr stu
-
-abc def ghi jkl mno pqr stu
