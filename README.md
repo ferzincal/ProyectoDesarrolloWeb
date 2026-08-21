@@ -1,6 +1,9 @@
-# [Nombre de tu Proyecto Web]
+# Casa Aleluya - Proyecto Web Informativo
 
-Una breve descripción de lo que hace tu página web, cuál es su propósito principal y qué problema resuelve. 
+Este proyecto es una página web dedicada a **Casa Aleluya**, un reconocido hogar y centro de atención integral ubicado en Guatemala. Esta institución se dedica a brindar refugio, educación, cuidado médico y apoyo a niños, niñas y jóvenes que han enfrentado situaciones de vulnerabilidad, abandono o abuso.
+
+**Propósito del sitio:**
+Esta página web fue desarrollada con un fin única y estrictamente **informativo**. Su objetivo principal es dar a conocer el lugar, compartir la misión de Casa Aleluya y visibilizar la labor vital que realizan día a día. Sirve como una ventana digital para que cualquier persona interesada pueda informarse sobre sus instalaciones y el impacto positivo que generan en la comunidad.
 
 ## 🚀 Tecnologías Utilizadas
 
@@ -25,3 +28,5 @@ Sigue estos pasos para tener una copia funcional del proyecto en tu computadora:
 1. **Clonar el repositorio:**
    ```bash
    git clone [https://github.com/ferzincal/ProyectoDesarrolloWeb](https://github.com/ferzincal/ProyectoDesarrolloWeb)
+abc def ghi jkl mno pqr stu
+abc def ghi jkl mno pqr stu
