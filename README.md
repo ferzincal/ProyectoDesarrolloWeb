@@ -13,9 +13,9 @@ Su propósito es proveer a otros desarrolladores toda la información necesaria 
 
 Esta página web fue diseñada y desarrollada colaborativamente por el siguiente equipo de tres integrantes:
 
-1. **Daniel Fernando Sincal Guitzol** - [1990-23-20914]
-2. **[Carlos Enrique Aguilar Sirín]** - [1990-18-13889]
-3. **[Allan Osciel Batzibal Pichiya]** - [1990-28-19009]
+1. **Daniel Fernando Sincal Guitzol** - 1990-23-20914
+2. **Carlos Enrique Aguilar Sirín** - 1990-18-13889
+3. **Allan Osciel Batzibal Pichiya** - 1990-28-19009
 
 ##  Tecnologías Utilizadas
 
@@ -63,6 +63,8 @@ npm run dev
 ¡Todo listo! La terminal te indicará que el servidor está corriendo. Abre tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) y visita la siguiente dirección:
  **[http://localhost:3000](http://localhost:3000)**
 abc def ghi jkl mno pqr stu
+abc def ghi jkl mno pqr stu
+
 abc def ghi jkl mno pqr stu
 
 abc def ghi jkl mno pqr stu
