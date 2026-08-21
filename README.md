@@ -9,7 +9,7 @@ Esta página web fue desarrollada con un fin única y estrictamente **informativ
 
 Su propósito es proveer a otros desarrolladores toda la información necesaria sobre la arquitectura del software, las dependencias tecnológicas y los pasos exactos para configurar, compilar y desplegar el entorno de desarrollo de manera local.
 
-## 👨‍💻 Equipo
+##  Equipo
 
 Esta página web fue diseñada y desarrollada colaborativamente por el siguiente equipo de tres integrantes:
 
@@ -63,6 +63,8 @@ npm run dev
 ¡Todo listo! La terminal te indicará que el servidor está corriendo. Abre tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) y visita la siguiente dirección:
  **[http://localhost:3000](http://localhost:3000)**
 abc def ghi jkl mno pqr stu
+abc def ghi jkl mno pqr stu
+
 abc def ghi jkl mno pqr stu
 
 abc def ghi jkl mno pqr stu
