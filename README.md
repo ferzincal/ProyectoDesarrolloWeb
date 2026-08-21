@@ -5,6 +5,18 @@ Este proyecto es una página web dedicada a **Casa Aleluya**, un reconocido hoga
 **Propósito del sitio:**
 Esta página web fue desarrollada con un fin única y estrictamente **informativo**. Su objetivo principal es dar a conocer el lugar, compartir la misión de Casa Aleluya y visibilizar la labor vital que realizan día a día. Sirve como una ventana digital para que cualquier persona interesada pueda informarse sobre sus instalaciones y el impacto positivo que generan en la comunidad.
 
+## 📖 Manual Técnico
+
+Este documento cumple la función de **Manual Técnico** del sistema. Su propósito es proveer a otros desarrolladores, administradores o evaluadores toda la información necesaria sobre la arquitectura del software, las dependencias tecnológicas y los pasos exactos para configurar, compilar y desplegar el entorno de desarrollo de manera local.
+
+## 👨‍💻 Equipo
+
+Esta página web fue diseñada y desarrollada colaborativamente por el siguiente equipo de tres integrantes:
+
+1. **[Daniel Fernando Sincal Guitzol]** - [1990-23-20914]
+2. **[Carlos Enrique Aguilar Sirín]** - [1990-18-13889]
+3. **[Allan Osciel Batzibal Pichiya]** - [1990-28-19009]
+
 ##  Tecnologías Utilizadas
 
 Este proyecto fue construido utilizando las siguientes herramientas modernas de desarrollo:
@@ -50,4 +62,5 @@ npm run dev
 **5. Visualizar la página web**
 ¡Todo listo! La terminal te indicará que el servidor está corriendo. Abre tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) y visita la siguiente dirección:
  **[http://localhost:3000](http://localhost:3000)**
+abc def ghi jkl mno pqr stu
 abc def ghi jkl mno pqr stu
