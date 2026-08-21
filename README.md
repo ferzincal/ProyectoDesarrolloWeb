@@ -5,7 +5,7 @@ Este proyecto es una página web dedicada a **Casa Aleluya**, un reconocido hoga
 **Propósito del sitio:**
 Esta página web fue desarrollada con un fin única y estrictamente **informativo**. Su objetivo principal es dar a conocer el lugar, compartir la misión de Casa Aleluya y visibilizar la labor vital que realizan día a día. Sirve como una ventana digital para que cualquier persona interesada pueda informarse sobre sus instalaciones y el impacto positivo que generan en la comunidad.
 
-## 🚀 Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 Este proyecto fue construido utilizando las siguientes herramientas modernas de desarrollo:
 
@@ -14,14 +14,14 @@ Este proyecto fue construido utilizando las siguientes herramientas modernas de 
 *   **TypeScript:** Superconjunto de JavaScript que añade tipado estático.
 *   **Tailwind CSS:** Framework de CSS para un diseño rápido y responsivo.
 
-## 📋 Requisitos Previos
+##  Requisitos Previos
 
 Para ejecutar este proyecto en tu entorno local, asegúrate de tener instalado lo siguiente:
 
 *   [Node.js](https://nodejs.org/) (Se recomienda la versión LTS)
 *   [Git](https://git-scm.com/)
 
-## 🛠️ Instalación y Ejecución Local
+## Instalación y Ejecución Local
 
 Sigue estos pasos para tener una copia funcional del proyecto en tu computadora:
 
@@ -50,3 +50,4 @@ npm run dev
 **5. Visualizar la página web**
 ¡Todo listo! La terminal te indicará que el servidor está corriendo. Abre tu navegador web de preferencia (Chrome, Edge, Firefox, etc.) y visita la siguiente dirección:
  **[http://localhost:3000](http://localhost:3000)**
+abc def ghi jkl mno pqr stu
