@@ -15,7 +15,7 @@ export const siteConfig = {
     address: 'Ciudad de Guatemala, Guatemala',
   },
   social: {
-    facebook: 'https://www.facebook.com/casaaleluya.org',
+    facebook: 'https://www.facebook.com/Casa-Aleluya-504551086582997',
     instagram: 'https://www.instagram.com/casa_aleluya2.0',
     youtube: 'https://www.youtube.com/@casaaleluya',
   },
