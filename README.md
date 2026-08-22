@@ -5,7 +5,7 @@ Este proyecto es una página web dedicada a **Casa Aleluya**, un reconocido hoga
 **Propósito del sitio:**
 Esta página web fue desarrollada con un fin única y estrictamente **informativo**. Su objetivo principal es dar a conocer el lugar, compartir la misión de Casa Aleluya y visibilizar la labor vital que realizan día a día. Sirve como una ventana digital para que cualquier persona interesada pueda informarse sobre sus instalaciones y el impacto positivo que generan en la comunidad.
 
-## 📖 Manual Técnico
+## 📖 Manual de Usuario
 
 Su propósito es proveer a otros desarrolladores toda la información necesaria sobre la arquitectura del software, las dependencias tecnológicas y los pasos exactos para configurar, compilar y desplegar el entorno de desarrollo de manera local.
 
